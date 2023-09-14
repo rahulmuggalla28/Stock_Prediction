@@ -1,0 +1,4 @@
+flask==2.3.2
+pandas==1.5.3
+pycaret==3.0.0
+yfinance==0.2.28
